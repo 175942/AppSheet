@@ -9,7 +9,7 @@ os indicadores de desempenho.
 
 Diante desta situação elaborei um plano de melhoria que inclui 3 projetos
 
-1 - Desenvolvimento de um Aplicativo: Para facilitar a gestão de inspeções
+1 - Desenvolvimento de um Aplicativo Mobile/Web: Para facilitar a gestão de inspeções
 
 2 - Desenvolvimento um RPA: Para que as informações sejam inseridas no sistema da empresa de forma automática.
 
