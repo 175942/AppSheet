@@ -25,5 +25,5 @@ Link do Vídeo do código: [Clique Aqui](https://drive.google.com/file/d/1xnzIy8
 
 Link do Código RPA: [Clique Aqui](https://github.com/175942/AppSheet/blob/main/RPA_ProjectCheck_List.ipynb)
 
-Link do Dashboard:
+Link do Dashboard: [Clique Aqui](https://github.com/175942/BI?tab=readme-ov-file)
 
